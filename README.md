@@ -2,10 +2,10 @@
 # Descrição do Jogo
 Pacman é um jogo clássico de arcade onde o jogador controla o personagem Pacman através de um labirinto. 
 
-# Instruções para Jogabilidade
-# Controles
+Instruções para Jogabilidade
+* Controles
 Teclas de Direção: Use as teclas de direção (cima, baixo, esquerda, direita) para mover o Pacman pelo labirinto.
-# Objetivos
+* Objetivos
 Evitar Fantasmas: Evite ser tocado pelos fantasmas. Se um fantasma tocar Pacman, o jogo  acaba.
 
 # Regras
