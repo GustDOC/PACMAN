@@ -19,7 +19,7 @@ Fim de Jogo: O jogo termina quando o PacMan é pego pelos fantasmas.
 
 # Script
 
-Realizado a criação do script abaixo para controlar o comportamento de um fantasma (Ghost) no jogo. O script controla a movimentação do fantasma em direção ao jogador (target = "Player") e define o que acontece quando o fantasma colide com o jogador que seria o retorno para o Menu. Conforme o video acima é possivel visualizar a movimentação do mesmo e o retorno ao menu.
+Realizado a criação do script abaixo para controlar o comportamento de um fantasma (Ghost) no jogo. O script controla a movimentação do fantasma em direção ao jogador (target = "Player") e define o que acontece quando o fantasma colide com o jogador que seria o retorno para o Menu. Conforme o video acima é possivel visualizar a movimentação do mesmo e o retorno ao menu. Para a movimentação da bola que representa o Pacman foi utilizado o Standard Assets pré definido da Unity.
 
 using System.Collections;
 using System.Collections.Generic;
